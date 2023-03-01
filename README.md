@@ -17,4 +17,5 @@ The decision tree algorithm implemented in the program is composed of several fu
 The decision tree is then used to predict the disease based on the user inputted symptoms. The program outputs the predicted disease and a message advising the user to consult a doctor.
 
 To run the program, ensure that the required libraries (pandas, sklearn, streamlit) are installed and run the Python script.
+
 run it as `streamlit run 1c_manual.py`
