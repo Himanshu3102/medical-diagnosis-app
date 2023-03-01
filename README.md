@@ -1,4 +1,4 @@
-Diagnosis App
+#Diagnosis App
 This Python program uses a decision tree algorithm to diagnose diseases based on user inputted symptoms. The program reads in a CSV file of symptom and disease data and utilizes the sklearn library to split the data for training and testing purposes.
 
 The streamlit library is used to create a user interface where the user selects which symptoms they are experiencing from a list of checkboxes. When the "Diagnose" button is pressed, the program uses the decision tree algorithm to predict the disease based on the selected symptoms.
